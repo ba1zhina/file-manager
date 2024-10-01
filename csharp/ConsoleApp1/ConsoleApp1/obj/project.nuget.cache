@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bt1v1fB49HY=",
+  "success": true,
+  "projectFilePath": "D:\\users\\balzhina\\download\\GitHub\\file-manager\\csharp\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balzh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\balzh\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\balzh\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
